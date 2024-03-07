@@ -1,0 +1,59 @@
+19:42:00.186 [main] INFO  TestCases.testcase_travelinsurance - Starting testcase_carinsurance
+19:42:00.207 [main] INFO  TestCases.testcase_travelinsurance - Entering Car Insurance Plans Details
+19:43:16.898 [main] INFO  TestCases.testcase_travelinsurance - Starting testcase_healthinsurance
+19:43:17.131 [main] INFO  TestCases.testcase_travelinsurance - Getting the list of Insurance Product Plans 
+19:43:18.754 [main] INFO  TestCases.testcase_travelinsurance - Ending testcase_healthinsurance
+19:51:06.428 [main] INFO  TestCases.testcase_travelinsurance - Starting testcase_travelinsurance
+19:51:06.468 [main] INFO  TestCases.testcase_travelinsurance - Entering Students TravelInsurance Plan Details
+19:51:41.619 [main] INFO  TestCases.testcase_travelinsurance - Ending testcase_travelinsurance
+19:51:43.748 [main] INFO  TestCases.testcase_travelinsurance - Starting testcase_carinsurance
+19:51:43.751 [main] INFO  TestCases.testcase_travelinsurance - Entering Car Insurance Plans Details
+19:53:07.305 [main] INFO  TestCases.testcase_travelinsurance - Error message Printed
+19:53:07.305 [main] INFO  TestCases.testcase_travelinsurance - Ending testcase_carinsurance
+19:53:09.729 [main] INFO  TestCases.testcase_travelinsurance - Starting testcase_healthinsurance
+19:53:09.977 [main] INFO  TestCases.testcase_travelinsurance - Getting the list of Insurance Product Plans 
+19:53:11.332 [main] INFO  TestCases.testcase_travelinsurance - Ending testcase_healthinsurance
+19:59:41.944 [main] INFO  TestBase.commonbase - Starting Cucumber Framework
+19:59:41.959 [main] INFO  TestBase.commonbase - Regression Testing is Started
+19:59:41.959 [main] INFO  TestBase.commonbase - Started Travel Insurance
+19:59:41.960 [main] INFO  TestBase.commonbase - Entering Student Details
+20:00:19.760 [main] INFO  TestBase.commonbase - Started Car Insurace
+20:00:29.414 [main] INFO  TestBase.commonbase - Entering Car Details
+20:01:03.602 [main] INFO  TestBase.commonbase - Getting Quotes for Car
+20:01:08.163 [main] INFO  TestBase.commonbase - Started Health Insurace
+20:02:07.830 [main] INFO  TestBase.commonbase - Starting Cucumber Framework
+20:02:07.835 [main] INFO  TestBase.commonbase - Regression Testing is Started
+20:02:07.835 [main] INFO  TestBase.commonbase - Started Travel Insurance
+20:02:07.835 [main] INFO  TestBase.commonbase - Entering Student Details
+20:02:42.869 [main] INFO  TestBase.commonbase - Ended Travel Insurace
+20:02:45.873 [main] INFO  TestBase.commonbase - Started Car Insurace
+20:02:56.218 [main] INFO  TestBase.commonbase - Entering Car Details
+20:03:30.313 [main] INFO  TestBase.commonbase - Getting Quotes for Car
+20:03:45.902 [main] INFO  TestBase.commonbase - Entering Car Details with Incorrect mail
+20:04:12.015 [main] INFO  TestBase.commonbase - Capturing Error Message
+20:04:12.016 [main] INFO  TestBase.commonbase - Ended Car Insurace
+20:04:14.864 [main] INFO  TestBase.commonbase - Started Health Insurace
+20:04:16.756 [main] INFO  TestBase.commonbase - Displaying Health Plans
+20:04:16.756 [main] INFO  TestBase.commonbase - Ended Health Insurace
+20:04:16.756 [main] INFO  TestBase.commonbase - Regression Testing is Ended
+20:04:16.757 [main] INFO  TestBase.commonbase - Ending Cucumber Framework
+20:06:56.619 [main] INFO  TestCases.testcase_travelinsurance - Starting testcase_travelinsurance
+20:06:56.681 [main] INFO  TestCases.testcase_travelinsurance - Entering Students TravelInsurance Plan Details
+20:07:37.342 [main] INFO  TestCases.testcase_travelinsurance - Ending testcase_travelinsurance
+20:07:39.445 [main] INFO  TestCases.testcase_travelinsurance - Starting testcase_carinsurance
+20:07:39.606 [main] INFO  TestCases.testcase_travelinsurance - Entering Car Insurance Plans Details
+20:09:05.862 [main] INFO  TestCases.testcase_travelinsurance - Error message Printed
+20:09:05.862 [main] INFO  TestCases.testcase_travelinsurance - Ending testcase_carinsurance
+20:09:08.920 [main] INFO  TestCases.testcase_travelinsurance - Starting testcase_healthinsurance
+20:09:09.507 [main] INFO  TestCases.testcase_travelinsurance - Getting the list of Insurance Product Plans 
+20:09:10.631 [main] INFO  TestCases.testcase_travelinsurance - Ending testcase_healthinsurance
+20:10:13.022 [main] INFO  Smoke.SmokeTest - Starting Smoke Testing
+20:10:57.740 [main] INFO  Smoke.SmokeTest - Ending Smoke Testing
+20:11:24.163 [main] INFO  Regression.RegressionTest - Starting Regression Testing
+20:13:26.055 [main] INFO  Regression.RegressionTest - Ending Regression Testing
+20:16:46.233 [main] INFO  Regression.RegressionTest - Starting Regression Testing
+20:18:47.620 [main] INFO  Regression.RegressionTest - Ending Regression Testing
+20:22:24.646 [main] INFO  Regression.RegressionTest - Starting Regression Testing
+20:24:25.687 [main] INFO  Regression.RegressionTest - Ending Regression Testing
+20:25:23.735 [main] INFO  Regression.RegressionTest - Starting Regression Testing
+20:27:34.002 [main] INFO  Regression.RegressionTest - Ending Regression Testing

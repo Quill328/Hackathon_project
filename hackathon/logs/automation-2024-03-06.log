@@ -1,0 +1,51 @@
+16:01:42.861 [main] INFO  TestCases.testcase_carinsurance - Ending testcase_carinsurance
+16:02:48.132 [main] INFO  TestCases.testcase_carinsurance - Starting testcase_carinsurance
+16:02:48.150 [main] INFO  TestCases.testcase_carinsurance - Entering Car Insurance Plans Details
+16:03:33.872 [main] INFO  TestCases.testcase_carinsurance - Error message Printed
+16:03:33.872 [main] INFO  TestCases.testcase_carinsurance - Ending testcase_carinsurance
+16:05:42.365 [main] INFO  TestCases.testcase_carinsurance - Starting testcase_carinsurance
+16:05:42.382 [main] INFO  TestCases.testcase_carinsurance - Entering Car Insurance Plans Details
+16:06:27.509 [main] INFO  TestCases.testcase_carinsurance - Error message Printed
+16:06:27.509 [main] INFO  TestCases.testcase_carinsurance - Ending testcase_carinsurance
+16:08:03.776 [main] INFO  TestCases.testcase_carinsurance - Starting testcase_carinsurance
+16:08:03.795 [main] INFO  TestCases.testcase_carinsurance - Entering Car Insurance Plans Details
+16:08:46.186 [main] INFO  TestCases.testcase_carinsurance - Error message Printed
+16:08:46.186 [main] INFO  TestCases.testcase_carinsurance - Ending testcase_carinsurance
+16:53:04.802 [main] INFO  TestCases.testcase_carinsurance - Starting testcase_carinsurance
+16:53:04.826 [main] INFO  TestCases.testcase_carinsurance - Entering Car Insurance Plans Details
+17:00:16.694 [main] INFO  TestCases.testcase_carinsurance - Starting testcase_carinsurance
+17:00:16.713 [main] INFO  TestCases.testcase_carinsurance - Entering Car Insurance Plans Details
+17:07:17.823 [main] INFO  TestCases.testcase_travelinsurance - Starting testcase_travelinsurance
+17:07:17.867 [main] INFO  TestCases.testcase_travelinsurance - Entering Students TravelInsurance Plan Details
+17:08:21.135 [main] INFO  TestCases.testcase_travelinsurance - Ending testcase_travelinsurance
+17:08:23.465 [main] INFO  TestCases.testcase_travelinsurance - Starting testcase_carinsurance
+17:08:23.470 [main] INFO  TestCases.testcase_travelinsurance - Entering Car Insurance Plans Details
+17:15:19.858 [main] INFO  TestCases.testcase_travelinsurance - Starting testcase_travelinsurance
+17:15:19.904 [main] INFO  TestCases.testcase_travelinsurance - Entering Students TravelInsurance Plan Details
+17:16:32.997 [main] INFO  TestCases.testcase_travelinsurance - Starting testcase_travelinsurance
+17:16:33.052 [main] INFO  TestCases.testcase_travelinsurance - Entering Students TravelInsurance Plan Details
+17:18:40.859 [main] INFO  TestCases.testcase_travelinsurance - Starting testcase_travelinsurance
+17:18:40.905 [main] INFO  TestCases.testcase_travelinsurance - Entering Students TravelInsurance Plan Details
+17:19:20.075 [main] INFO  TestCases.testcase_travelinsurance - Ending testcase_travelinsurance
+17:19:22.656 [main] INFO  TestCases.testcase_travelinsurance - Starting testcase_carinsurance
+17:19:22.658 [main] INFO  TestCases.testcase_travelinsurance - Entering Car Insurance Plans Details
+17:20:41.363 [main] INFO  TestCases.testcase_travelinsurance - Starting testcase_healthinsurance
+17:20:41.533 [main] INFO  TestCases.testcase_travelinsurance - Getting the list of Insurance Product Plans 
+17:20:43.195 [main] INFO  TestCases.testcase_travelinsurance - Ending testcase_healthinsurance
+17:31:02.769 [main] INFO  TestCases.testcase_travelinsurance - Starting testcase_travelinsurance
+17:31:02.815 [main] INFO  TestCases.testcase_travelinsurance - Entering Students TravelInsurance Plan Details
+17:31:41.724 [main] INFO  TestCases.testcase_travelinsurance - Starting testcase_carinsurance
+17:31:41.730 [main] INFO  TestCases.testcase_travelinsurance - Entering Car Insurance Plans Details
+17:33:00.014 [main] INFO  TestCases.testcase_travelinsurance - Starting testcase_healthinsurance
+17:33:00.205 [main] INFO  TestCases.testcase_travelinsurance - Getting the list of Insurance Product Plans 
+17:34:51.189 [main] INFO  TestCases.testcase_travelinsurance - Starting testcase_travelinsurance
+17:34:51.236 [main] INFO  TestCases.testcase_travelinsurance - Entering Students TravelInsurance Plan Details
+17:35:28.973 [main] INFO  TestCases.testcase_travelinsurance - Ending testcase_travelinsurance
+17:35:31.686 [main] INFO  TestCases.testcase_travelinsurance - Starting testcase_carinsurance
+17:35:31.690 [main] INFO  TestCases.testcase_travelinsurance - Entering Car Insurance Plans Details
+17:36:50.203 [main] INFO  TestCases.testcase_travelinsurance - Starting testcase_healthinsurance
+17:36:50.383 [main] INFO  TestCases.testcase_travelinsurance - Getting the list of Insurance Product Plans 
+17:36:51.635 [main] INFO  TestCases.testcase_travelinsurance - Ending testcase_healthinsurance
+19:41:15.032 [main] INFO  TestCases.testcase_travelinsurance - Starting testcase_travelinsurance
+19:41:15.111 [main] INFO  TestCases.testcase_travelinsurance - Entering Students TravelInsurance Plan Details
+19:41:56.901 [main] INFO  TestCases.testcase_travelinsurance - Ending testcase_travelinsurance

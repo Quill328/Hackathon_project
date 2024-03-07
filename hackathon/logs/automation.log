@@ -1,0 +1,59 @@
+09:57:27.171 [main] INFO  TestCases.testcase_travelinsurance - Starting testcase_travelinsurance
+09:57:27.220 [main] INFO  TestCases.testcase_travelinsurance - Entering Students TravelInsurance Plan Details
+09:58:27.601 [main] INFO  TestCases.testcase_travelinsurance - Starting testcase_travelinsurance
+09:58:27.690 [main] INFO  TestCases.testcase_travelinsurance - Entering Students TravelInsurance Plan Details
+09:59:31.935 [main] INFO  TestCases.testcase_travelinsurance - Starting testcase_travelinsurance
+09:59:32.012 [main] INFO  TestCases.testcase_travelinsurance - Entering Students TravelInsurance Plan Details
+10:04:00.195 [main] INFO  TestCases.testcase_travelinsurance - Starting testcase_travelinsurance
+10:04:00.311 [main] INFO  TestCases.testcase_travelinsurance - Entering Students TravelInsurance Plan Details
+10:04:40.622 [main] INFO  TestCases.testcase_travelinsurance - Ending testcase_travelinsurance
+10:04:43.803 [main] INFO  TestCases.testcase_travelinsurance - Starting testcase_carinsurance
+10:04:43.953 [main] INFO  TestCases.testcase_travelinsurance - Entering Car Insurance Plans Details
+10:06:15.607 [main] INFO  TestCases.testcase_travelinsurance - Error message Printed
+10:06:15.607 [main] INFO  TestCases.testcase_travelinsurance - Ending testcase_carinsurance
+10:06:18.402 [main] INFO  TestCases.testcase_travelinsurance - Starting testcase_healthinsurance
+10:06:19.327 [main] INFO  TestCases.testcase_travelinsurance - Getting the list of Insurance Product Plans 
+10:06:20.687 [main] INFO  TestCases.testcase_travelinsurance - Ending testcase_healthinsurance
+10:12:12.105 [main] INFO  TestBase.commonbase - Starting Cucumber Framework
+10:12:12.114 [main] INFO  TestBase.commonbase - Regression Testing is Started
+10:12:12.115 [main] INFO  TestBase.commonbase - Started Travel Insurance
+10:12:12.115 [main] INFO  TestBase.commonbase - Entering Student Details
+10:12:18.803 [main] INFO  TestBase.commonbase - Started Car Insurace
+10:12:30.061 [main] INFO  TestBase.commonbase - Entering Car Details
+10:13:06.600 [main] INFO  TestBase.commonbase - Getting Quotes for Car
+10:13:25.323 [main] INFO  TestBase.commonbase - Entering Car Details with Incorrect mail
+10:13:53.952 [main] INFO  TestBase.commonbase - Capturing Error Message
+10:13:53.952 [main] INFO  TestBase.commonbase - Ended Car Insurace
+10:13:56.606 [main] INFO  TestBase.commonbase - Started Health Insurace
+10:13:59.765 [main] INFO  TestBase.commonbase - Displaying Health Plans
+10:13:59.765 [main] INFO  TestBase.commonbase - Ended Health Insurace
+10:13:59.766 [main] INFO  TestBase.commonbase - Regression Testing is Ended
+10:13:59.766 [main] INFO  TestBase.commonbase - Ending Cucumber Framework
+10:16:15.061 [main] INFO  TestBase.commonbase - Starting Cucumber Framework
+10:16:15.071 [main] INFO  TestBase.commonbase - Regression Testing is Started
+10:16:15.072 [main] INFO  TestBase.commonbase - Started Travel Insurance
+10:16:15.073 [main] INFO  TestBase.commonbase - Entering Student Details
+10:16:59.179 [main] INFO  TestBase.commonbase - Ended Travel Insurace
+10:17:02.125 [main] INFO  TestBase.commonbase - Started Car Insurace
+10:17:13.513 [main] INFO  TestBase.commonbase - Entering Car Details
+10:17:50.943 [main] INFO  TestBase.commonbase - Getting Quotes for Car
+10:18:08.903 [main] INFO  TestBase.commonbase - Entering Car Details with Incorrect mail
+10:18:37.548 [main] INFO  TestBase.commonbase - Capturing Error Message
+10:18:37.548 [main] INFO  TestBase.commonbase - Ended Car Insurace
+10:18:39.841 [main] INFO  TestBase.commonbase - Started Health Insurace
+10:18:43.500 [main] INFO  TestBase.commonbase - Displaying Health Plans
+10:18:43.500 [main] INFO  TestBase.commonbase - Ended Health Insurace
+10:18:43.501 [main] INFO  TestBase.commonbase - Regression Testing is Ended
+10:18:43.501 [main] INFO  TestBase.commonbase - Ending Cucumber Framework
+16:09:12.598 [main] INFO  TestCases.TC1_travelInsurance - ***** Travel Insurance *****
+16:09:12.678 [main] INFO  TestCases.TC1_travelInsurance - Entering Students Travel Insurance Details
+16:10:05.389 [main] INFO  TestCases.TC1_travelInsurance - ***** Travel Insurance *****
+16:10:05.439 [main] INFO  TestCases.TC1_travelInsurance - Entering Students Travel Insurance Details
+16:10:52.494 [main] INFO  TestCases.TC1_travelInsurance - ***** Travel Insurance *****
+16:10:55.997 [main] INFO  TestCases.TC1_travelInsurance - ***** Car Insurance *****
+16:10:56.237 [main] INFO  TestCases.TC1_travelInsurance - Entering Car Insurance Details
+16:12:23.924 [main] INFO  TestCases.TC1_travelInsurance - Error message Printed
+16:12:23.925 [main] INFO  TestCases.TC1_travelInsurance - ***** Car Insurance *****
+16:12:26.654 [main] INFO  TestCases.TC1_travelInsurance - ***** Health Insurance *****
+16:12:27.209 [main] INFO  TestCases.TC1_travelInsurance - Capturing the list of Insurance Product Plans 
+16:12:28.254 [main] INFO  TestCases.TC1_travelInsurance - ***** Health Insurance *****
